@@ -10,3 +10,5 @@ setTimeout(function(){
 }, 2000);
 
 console.log('hello ')
+
+print("hello it's razan")
